@@ -1,2 +1,10 @@
-This work is licensed under a Creative Commons Attribution 4.0 International License.
-http://creativecommons.org/licenses/by/4.0/
+This work is licensed under a Creative Commons Attribution 4.0 International 
+License (http://creativecommons.org/licenses/by/4.0/) with the following 
+exception:
+---
+To the extent that the creation of electronic designs that use 
+'Licensed Material' can be considered to be 'Adapted Material', 
+then the copyright holder waives article 3 of the license with 
+respect to these designs and any generated files which use data 
+provided as part of the 'Licensed Material'.
+---
