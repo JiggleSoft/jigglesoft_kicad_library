@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 07 May 2017 00:27:18 BST
+#
+$CMP 6N138
+D 6N138, DIP8, High Speed Optocoupler, TTL Compatible, CTR > 300%
+K High Speed Optocoupler
+F http://www.vishay.com/docs/83605/6n138.pdf
+$ENDCMP
+#
+#End Doc Library

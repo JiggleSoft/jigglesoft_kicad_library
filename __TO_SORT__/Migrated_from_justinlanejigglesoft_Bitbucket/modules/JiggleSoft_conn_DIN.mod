@@ -1,0 +1,70 @@
+PCBNEW-LibModule-V1  Sun 14 May 2017 23:06:42 BST
+# encoding utf-8
+Units mm
+$INDEX
+PSG03463
+$EndINDEX
+$MODULE PSG03463
+Po 0 0 0 15 5918D4B6 00000000 ~~
+Li PSG03463
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.4 1 1 0 0.15 N V 21 N "PSG03463"
+T1 0 -6.2 1 1 0 0.15 N V 21 N "VAL**"
+DS -10.5 0.8 10.5 0.8 0.15 21
+DS -10.5 -12.5 10.5 -12.5 0.15 21
+DS 10.5 -12.5 10.5 6.5 0.15 21
+DS 10.5 6.5 -10.5 6.5 0.15 21
+DS -10.5 6.5 -10.5 -12.5 0.15 21
+$PAD
+Sh "1" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "2" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.5 0
+$EndPAD
+$PAD
+Sh "3" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.5 0
+$EndPAD
+$PAD
+Sh "5" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 2.5
+$EndPAD
+$PAD
+Sh "4" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 2.5
+$EndPAD
+$PAD
+Sh "7" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 -10
+$EndPAD
+$PAD
+Sh "6" C 1.5 1.5 0 0 0
+Dr 0.6 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 -10
+$EndPAD
+$EndMODULE PSG03463
+$EndLIBRARY

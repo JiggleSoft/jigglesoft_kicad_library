@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0  Date: Mon 08 May 2017 20:59:53 BST
+#
+$CMP 1206L050YR
+D LITTELFUSE  1206L050YR  PPTC Resettable Fuse, SMD, POLYFUSE 1206L Series, 500 mA, 1 A, 6 VDC, -40 °C
+K USB PPTC POLYFUSE
+F http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1206l_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SP1003-01ETG
+D LITTELFUSE  SP1003-01ETG  DIODE, TVS ARRAY, 5V, UNIDIRECTIONAL, SOD882-2
+K USB DIODE TVS
+F http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp1003_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SP3003-02UTG
+D LITTELFUSE  SP3003-02UTG  DIODE, ESD, TVS, 2CH, 8kV, 0.65pF
+K USB DIODE ESD TVS
+F http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3003_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SP3014-02UTG
+D LITTELFUSE  SP3014-02UTG  DIODE, ESD, TVS, 2CH, 15kV, 1.0pF
+K USB DIODE ESD TVS
+F http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3014_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SP3030-01ETG
+D LITTELFUSE  SP3030-01ETG  ESD DIODE, AEC-Q101, 5V, 0.5PF, SOD882-2
+K USB DIODE ESD AEC-Q101
+F http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3030_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP TPD4S012
+D TPD4S012 4-Channel ESD Solution for USB-HS/USB OTG/USB Charger Interface (Rev. B)
+K USB ESD
+F http://www.ti.com/lit/ds/symlink/tpd4s012.pdf
+$ENDCMP
+#
+$CMP TPD4S014
+D TPD4S014 USB Charger Port Protection Including ESD Protection for All Lines and Overvoltage Protection on VBUS (Rev. G)
+K USB ESD
+F http://www.ti.com/lit/ds/symlink/tpd4s014.pdf
+$ENDCMP
+#
+$CMP TPD4S214
+D TPD4S214 USB OTG Companion Device with VBUS Over Voltage Protection, Over Current Protection, and Four Channel ESD Protection (Rev. F) 
+K USB ESD
+F http://www.ti.com/lit/ds/symlink/tpd4s214.pdf
+$ENDCMP
+#
+#End Doc Library
